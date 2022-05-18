@@ -25,7 +25,7 @@ To get a local copy up and running follow these simple example steps.
 - Install the required dependency
 `bundle install`
 - Run the app on development server
-`bin/rails serve`
+`bin/rails server`
 
 ## Authors
 
